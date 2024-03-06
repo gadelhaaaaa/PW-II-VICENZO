@@ -1,2 +1,2 @@
 # PWII
-Repositorio para aula de PW II
+Repositorio para aula de PW II com Joao siles e Ricardo PAIlhares
