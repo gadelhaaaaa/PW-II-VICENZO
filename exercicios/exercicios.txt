@@ -1,0 +1,3 @@
+Subir exercicios no Github dentro de uma pasta chamada exercicios 3 bimestre:
+
+https://github.com/gabriel-trevisan/ExerciciosPHP/blob/master/topics/Easy.md
